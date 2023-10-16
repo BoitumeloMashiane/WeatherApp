@@ -19,7 +19,7 @@ Follow these steps to run the project on your local machine:
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd weather-app
+   cd weatherapp
 
 4. **Run the Development Server**
    ```bash
