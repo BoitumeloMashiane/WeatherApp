@@ -5,7 +5,7 @@ This is a simple weather application built using React and Vite. It allows users
 ## Features
 
 - Display current weather conditions for a given location.
-- Fetches data from a weather API (e.g., OpenWeatherMap).
+- Fetches data OpenWeatherMap API(https://openweathermap.org/).
 - User-friendly interface with temperature, weather description, and location name.
 - Responsive design for various screen sizes.
 
