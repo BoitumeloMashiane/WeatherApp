@@ -15,7 +15,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/yourusername/weather-app.git](https://github.com/BoitumeloMashiane/WeatherApp.git)https://github.com/BoitumeloMashiane/WeatherApp.git
+   git clone https://github.com/BoitumeloMashiane/WeatherApp.git
 
 2. **Navigate to the Project Directory**
    ```bash
