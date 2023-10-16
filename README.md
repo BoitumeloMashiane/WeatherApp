@@ -18,7 +18,9 @@ Follow these steps to run the project on your local machine:
    git clone [https://github.com/yourusername/weather-app.git](https://github.com/BoitumeloMashiane/WeatherApp.git)https://github.com/BoitumeloMashiane/WeatherApp.git
 
 2. **Navigate to the Project Directory**
+   ```bash
    cd weather-app
 
-3. **Run the Development Server**
+4. **Run the Development Server**
+   ```bash
    npm run dev
